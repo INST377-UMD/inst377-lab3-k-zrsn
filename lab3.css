@@ -1,0 +1,23 @@
+
+#bar {
+    text-align: center;
+    background-color: #F64D00;
+    color: #E4E4E4;
+    margin: 15px;
+    padding: 5px;
+    clear: both;
+}
+
+.main-content{
+    width: 70%;
+    float: left;
+}
+
+#sidebar{
+    width: 25%;
+    float: right;
+}
+
+#body{
+    font-family: courier;
+}
