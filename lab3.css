@@ -6,11 +6,17 @@
     margin: 15px;
     padding: 5px;
     clear: both;
+    border: 2px solid #c7c2c2;
 }
 
 .main-content{
-    width: 70%;
+    background-color: #c7c2c2;
+    color: #0B0B0B;
+    width: 60%;
     float: left;
+    margin: 15px;
+    padding: 10px;
+    border: 2px solid #F64D00;
 }
 
 #sidebar{
@@ -19,8 +25,9 @@
     margin: 15px;
     padding: 5px;
     text-align: center;
-    background-color: #c7c2c2;
+    background-color: #e58f8f;
     color: #0B0B0B;
+    border: 2px solid #F64D00;
 }
 
     #sidebar:hover {
@@ -28,6 +35,7 @@
     }
 
 #body{
+    
     font-family: courier;
     margin: 15px;
     padding:5px;
@@ -44,6 +52,7 @@
     text-align: center;
     margin: 15px;
     padding: 15px;
+    border: 2px solid #F64D00;
 }
 
 #nav-bar a:hover {
